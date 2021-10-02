@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Global presentation  
 I am a student at the French engineering school Ecole Polytechnique. In third year, I specialized in Computer Science and more specifically in Image, Vision and Learning. I am currently in an academic gap year and I am studying 3D Animation at Ecole de l'image Gobelins.  
   
