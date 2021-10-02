@@ -2,7 +2,7 @@
 I am a student at the French engineering school Ecole Polytechnique. In third year, I specialized in Computer Science and more specifically in Image, Vision and Learning. I am currently in an academic gap year and I am studying 3D Animation at Ecole de l'image Gobelins.  
   
 ### This Github  
-All of my projects related to Image, Vision and Learning are posted publicly on this github as repositories, with access to all of my project reports and codes.
+All of my projects related to Image, Vision and Learning are posted publicly on this github as repositories, with access to all of my project reports and codes. I posted one special repository containing all of my projects/exercise demos from my gap year in 3D Animation. This repository is called "3D-Animation-2021-2022---Gobelins". 
 
 <!--
 **CapucineLeroux/CapucineLeroux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
