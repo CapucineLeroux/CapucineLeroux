@@ -1,5 +1,5 @@
 ### Global presentation  
-I am a student at the French engineering school Ecole Polytechnique. In third year, I specialized in Computer Science and more specifically in Image, Vision and Learning. I am currently in an academic gap year and I am studying 3D Animation at Ecole de l'image Gobelins. For more information, consult my website : https://capulrx.wixsite.com/my-site. 
+I am currently interning at Dreamworks in FX/CFX production software. I graduated with an MS degree in Computer Science from Columbia University. I also have a diplôme d'ingénieur (Master Level) from Ecole Polytechnique and a 3D character animator degree from Gobelins Paris. For more information, consult my website : https://capulrx.wixsite.com/my-site. 
   
 ### This Github  
 All of my projects related to Image, Vision and Learning are posted publicly on this github as repositories, with access to all of my project reports and codes.
